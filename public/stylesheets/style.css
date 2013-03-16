@@ -6,3 +6,27 @@ body {
 a {
   color: #00B7FF;
 }
+
+.left {
+    text-align:right;
+    width:50%;
+    float:left;
+    color:#555555;
+    font-size:13px;
+    line-height:30px;
+    padding:0px 1px 0px 0px;
+}
+      
+.right {
+    float:left;
+    line-height:30px;
+    font-size:18px;
+}
+
+.midashi {
+    text-align:center
+}
+
+#az, #a, #k, #s, #t, #n, #h, #m, #y, #r, #w {
+    width:100%;
+}
